@@ -9,37 +9,38 @@ export const services = [
         icon: 'https://csgeeek.github.io/web.png',
     },
     {
-        title: "Photographer",
+        title: "Singer",
         icon: 'https://csgeeek.github.io/web.png',
     },
 ];
 
-export const name = 'Nithin';
+export const name = 'Shivansh';
 
 export const experiences = [
     {
-        'company': 'Inncircles Technologies',
-        'role': 'Product Developer',
-        'duration': 'April 2023 - Present',
+        'company': 'Merkle Science',
+        'role': 'Software Development Engineer',
+        'duration': 'Mar 2024 - Present',
         'logo': 'https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/e5gz1yggdy8sc1umna3e',
         'points': [
-            'Involved in dynamic contributions to web and mobile📱 development projects, actively influencing and improving project outcomes.',
-            'Developed multiple shared components to simplify tasks for fellow developers, boosting efficiency and teamwork.',
-            'Enhanced product performance through significant contributions to backend development, optimizing essential components for improved efficiency 📈.',
-            'Implemented data security for the company’s product to provide role-based access control ⚙️.'
+            'Led the revamp of Ethereum Virtual Machine (EVM) integration, enhancing performance and user experience, which resulted in a 30% increase in customer acquisition.',
+            'Implemented entity search alongside address and transaction search, optimizing queries with debouncing to reduce server load and improve user engagement by 10%.',
+            'Integrated session monitoring into ReactJS and VueJS codebases, enabling real-time tracking to enhance user experience and debugging efficiency.',
+            'Designed custom analytics dashboards by tracking page durations and writing SQL queries on Mixpanel, helping the marketing team make data-driven decisions more efficiently.'
         ],
-        'url': 'https://inncircles.com/#home',
+        'url': 'https://www.linkedin.com/company/merklescience/posts/?feedView=all',
     },
     {
-        'company': 'AT & T',
-        'role': 'Technical Intern',
-        'duration': 'Jan 2023 - March 2023',
+        'company': 'Maidaan',
+        'role': 'Full Stack Intern',
+        'duration': 'Jan 2024 - Feb 2024',
         'logo': 'https://www.att.com/ecms/dam/att/consumer/global/logos/att_globe_500x500.jpg',
         'points': [
-            'Gained experience with Git version control contributing to the development and maintenance of code repositories.',
-            'Worked on the application dashboard, making it more user-friendly and improving its overall functionality📱.'
+            'Built a weekly streak feature, increasing user engagement by 15% and driving a 20% boost in daily active users.',
+            'Optimized the score leaderboard, improving performance by 40% through query optimization and removing redundant database listeners.',
+            'Automated WhatsApp communication by integrating the Interact API, enabling 1,000+ targeted messages with a cost-effective rate-limiting strategy.'
         ],
-        'url': 'https://www.att.com/',
+        'url': 'https://www.linkedin.com/company/maidaan-app/',
     },
 ]
 

@@ -63,16 +63,9 @@ export const project = [
         title:'Co People',
         description:'Co People is a dynamic web application I crafted using React, Node JS and React. This project is a modern and engaging social platform that allows users to connect, share content and interact seamlessly.',
         image: {vpn},
-        git:'https://github.com/nithingooud/CoPeople',
+        git:'https://github.com/modikaran-95?tab=projects',
         technologies:['MongoDb' ,'ReactJS' , 'NodeJS']
     },
-    {
-        title:'Snap Shot',
-        description:'SnapShot is a stunning portfolio that I exclusively designed using React JS and tailwind CSS.This Project serves as a representation of a photographer’s work, highlighting their portfolio and services.',
-        image: {copeople},
-        git:"https://github.com/nithingooud/vpn_studios",
-        technologies:[ 'React JS', 'tailwind CSS']
-    }
 ]
 
 export default Projects

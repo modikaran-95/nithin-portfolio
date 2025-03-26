@@ -2,7 +2,7 @@
   "name": "karan-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://modikaran-95.github.io/karan-portfolio",
+  "homepage": "https://modikaran-95.github.io/",
   "dependencies": {
     "@emailjs/browser": "^4.1.0",
     "@react-three/drei": "^9.97.5",
@@ -23,7 +23,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "npm run build&&gh-pages -d build",
+    "deploy": "gh-pages -b main -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
